@@ -8,13 +8,9 @@ Download the ojdbc6 driver
 
 #### From Eclipse
 
-- Add ojdc driver to classpath
-- Run as java application supplying the following arguments and in that order
-    
+    Add ojdc driver to classpath
+    Run as java application supplying the following arguments and in that order
     [dbUrl] [username] [password]
-
-Run as  
-
 
 #### From Command Line 
 ```
